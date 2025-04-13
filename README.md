@@ -13,3 +13,7 @@ These are the projects I did in the completion of this certificate.
 * Salon Appointment Scheduler
 
       A database for a salon including services, customers, and appointments. The database was made using PostgreSQL, and services were inserted into the services table. Finally, I made a Bash script to make an appointment for a customer (along with adding the customer if they weren't in the customers table).
+
+* Periodic Table
+
+      A database for the periodic table including elements, properties, and types. A version of the database (using PostgreSQL) was given, from which I made several additions and corrections. Then, I made a bash script to get element information based on atomic number, name, or symbol.
