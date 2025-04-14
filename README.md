@@ -17,3 +17,7 @@ These are the projects I did in the completion of this certificate.
 * Periodic Table
 
       A database for the periodic table including elements, properties, and types. A version of the database (using PostgreSQL) was given, from which I made several additions and corrections. Then, I made a Bash script to get element information based on atomic number, name, or symbol. When creating the Bash script, I used Git for version control.
+
+* Number Guessing
+
+      A number guessing game. I made a PostgresSQL database to hold player info (username, games played, and lowest guesses). Then, I made a Bash script to get the player's username and challenge the player to guess a random number. When creatng the Bash script, I used Git for version control.
