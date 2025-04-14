@@ -21,3 +21,5 @@ These are the projects I did in the completion of this certificate.
 * Number Guessing
 
       A number guessing game. I made a PostgresSQL database to hold player info (username, games played, and lowest guesses). Then, I made a Bash script to get the player's username and challenge the player to guess a random number. When creatng the Bash script, I used Git for version control.
+
+[Here](https://www.freecodecamp.org/certification/fcc30aca8b2-d2c4-4009-a397-2e6d1ecbde3b/relational-database-v8) is my certificate on freeCodeCamp.
